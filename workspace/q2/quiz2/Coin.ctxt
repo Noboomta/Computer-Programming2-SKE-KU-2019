@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\r\n\ A\ coin\ with\ a\ monetary\ value\ and\ currency.\r\n\r\n\ @author\r\n
+comment1.params=other
+comment1.target=int\ compareTo(coinpurse.Coin)
+comment2.params=value\ currency
+comment2.target=Coin(double,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=double\ getValue()
+comment5.params=
+comment5.target=java.lang.String\ getCurrency()
+comment6.params=object
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

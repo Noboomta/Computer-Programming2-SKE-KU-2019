@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ValueComparatorTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testCompareByValue()
+comment2.text=\r\n\ test\ that\ compareTo\ orders\ by\ increasing\ value\r\n
+comment3.params=
+comment3.target=void\ testCompareByCurrency()
+comment3.text=Comparator\ should\ order\ by\ currency\ ignoring\ case\ before\ value.
+comment4.params=
+comment4.target=void\ testCompareToUsesDouble()
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\r\n\ A\ coin\ with\ a\ monetary\ value\ and\ currency.\r\n\r\n\ @author\ Puvana\ Swatvanith\r\n
+comment1.params=other
+comment1.target=int\ compareTo(coinpurse.Coin)
+comment1.text=\r\n\ Method\ to\ sort\ the\ coin.\r\n
+comment2.params=value\ currency
+comment2.target=Coin(double,\ java.lang.String)
+comment2.text=\r\n\ Set\ the\ value\ and\ currency.\r\n\ \r\n\ @param\ value\ \ \ \ value\ of\ coin.\r\n\ @param\ currency\ currency\ string.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Method\ toString.\r\n
+comment4.params=
+comment4.target=double\ getValue()
+comment4.text=\r\n\ Method\ to\ return\ value.\r\n\ \r\n\ @return\ value\ of\ coin.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getCurrency()
+comment5.text=\r\n\ Method\ to\ return\ currency.\r\n\ \r\n\ @return\ currency\ of\ coin.\r\n
+comment6.params=object
+comment6.target=boolean\ equals(java.lang.Object)
+comment6.text=\r\n\ Equals\ method\ to\ check\ if\ it\ equals\ or\ not.\r\n
+numComments=7

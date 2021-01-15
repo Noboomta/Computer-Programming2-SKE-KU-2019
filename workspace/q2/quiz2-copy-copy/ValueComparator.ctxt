@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ValueComparator
+comment1.params=a\ b
+comment1.target=int\ compare(Valuable,\ Valuable)
+comment1.text=\r\n\ Compare\ two\ objects\ that\ implement\ Valuable.\r\n\ First\ compare\ them\ by\ currency,\ so\ that\ "Baht"\ <\ "Dollar".\r\n\ If\ both\ objects\ have\ the\ same\ currency,\ order\ them\ by\ value.\r\n
+numComments=2

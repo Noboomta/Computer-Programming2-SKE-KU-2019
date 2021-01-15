@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ValuableTest
+comment0.text=\r\n\ Simple\ tests\ of\ objects\ implementing\ Valuable.\r\n\ @author\ jim\r\n\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testImplementsValuable()
+comment3.params=
+comment3.target=void\ testDeclaredMethods()
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BankNote
+comment0.text=\r\n\ BankNote\ class\ to\ store\ the\ value,\ currency,\ and\ the\ serial\ number.\r\n\ \r\n\ @author\ Puvana\ Swatvanith.\r\n
+comment1.params=value\ currency
+comment1.target=BankNote(double,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ of\ the\ Class.\r\n\ \r\n\ @param\ value\ \ \ \ value\ of\ the\ banknote.\r\n\ @param\ currency\ currency\ of\ the\ banknote.\r\n
+comment2.params=
+comment2.target=double\ getValue()
+comment3.params=
+comment3.target=java.lang.String\ getCurrency()
+comment4.params=
+comment4.target=long\ getSerial()
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ Equals\ method\ to\ check\ if\ it\ equals\ or\ not.\r\n\ \r\n\ @return\ boolean\ of\ the\ answer.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\ Method.\r\n\ \r\n\ @return\ describe\ what\ inside\ this\ BankNote.\r\n
+numComments=7

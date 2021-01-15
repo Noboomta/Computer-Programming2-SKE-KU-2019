@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ A\ course\ in\ the\ university\ catalog.\r\n\ A\ course\ has\ a\ course\ id,\ title\ (name\ of\ course),\ credits,\ \r\n\ and\ a\ difficulty\ rating.\ \ Difficulty\ is\ 1.0\ (easy)\ to\ 10.0\ (hardest).\r\n\ Difficulty\ of\ 0\ means\ the\ course\ is\ unrated.\r\n
+comment1.params=id
+comment1.target=Course(java.lang.String)
+comment1.text=\r\n\ A\ constructor\ for\ subclasses\ that\ don't\ need\r\n\ to\ set\ attributes\ of\ the\ parent\ class.\r\n\ @param\ id\ is\ the\ course\ id\ for\ this\ course\r\n
+comment2.params=id\ title\ credits\ difficulty
+comment2.target=Course(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.text=\r\n\ Initialize\ a\ new\ course\ object\ with\r\n\ a\ course\ id,\ name,\ credits,\ and\ difficulty\ rating.\r\n
+comment3.params=id\ title\ credits
+comment3.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment3.text=\r\n\ Initialize\ a\ new\ course\ object\ without\ a\ difficulty\ rating.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment4.text=\r\n\ Get\ the\ name\ of\ this\ course.\r\n\ @return\ the\ title\ (name)\ of\ this\ course\r\n
+comment5.params=
+comment5.target=int\ getCredits()
+comment5.text=\r\n\ Get\ the\ number\ of\ credits\ for\ this\ course.\r\n\ @return\ number\ of\ credits\r\n
+comment6.params=
+comment6.target=double\ getDifficulty()
+comment6.text=\r\n\ Get\ the\ difficulty\ of\ this\ course.\r\n\ @return\ course\ difficulty.\ 0-10,\ 0\=unrated,\ 1\=very\ easy,\ 10\=very\ hard.\r\n\ Difficulty\ may\ be\ fractional,\ e.g.\ 2.5.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getId()
+comment7.text=\r\n\ Get\ the\ course\ id.\r\n\ @return\ id\ of\ the\ course.\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=Return\ a\ string\ representation\ of\ this\ course\ info.
+comment9.params=obj
+comment9.target=boolean\ equals(java.lang.Object)
+comment9.text=Two\ courses\ are\ equal\ if\ the\ ids\ are\ the\ same.
+numComments=10

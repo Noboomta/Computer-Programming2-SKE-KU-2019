@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Valuable
+comment0.text=\r\n\ interface\ named\ Valuable\ which\ have\ Coin\ and\ BankNote.\r\n
+comment1.params=
+comment1.target=double\ getValue()
+comment2.params=
+comment2.target=java.lang.String\ getCurrency()
+numComments=3

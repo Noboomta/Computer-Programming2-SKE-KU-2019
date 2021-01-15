@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CourseList
+comment0.text=\r\n\ Class\ CourseList\r\n
+comment1.params=course
+comment1.target=boolean\ add(Course)
+comment1.text=\r\n\ Add\ course\ method.\r\n\ @param\ course\r\n\ @return\r\n
+comment2.params=
+comment2.target=double\ getDifficulty()
+comment2.text=\r\n\ getDifficulty\ method.\r\n\ @return\ difficulty.\r\n
+comment3.params=courseId
+comment3.target=Course\ drop(java.lang.String)
+comment3.text=\r\n\ Drop\ Method.\r\n\ @param\ courseId\ id\r\n\ @return\ course\r\n
+comment4.params=
+comment4.target=int\ getCredits()
+comment4.text=\ getCredit\ method.\r\n\ @return\ all\ credit.\r\n
+comment5.params=
+comment5.target=java.util.List\ getCourses()
+comment5.text=\r\n\ getCourse.\r\n\ @return\ All\ course.\r\n
+numComments=6

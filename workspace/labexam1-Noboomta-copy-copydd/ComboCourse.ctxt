@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ComboCourse
+comment0.text=\r\n\ Class\ ComboCourse\ extends\ Course.\r\n
+comment1.params=courseId\ a\ b
+comment1.target=ComboCourse(java.lang.String,\ Course,\ Course)
+comment1.text=\r\n\ Constructor.\r\n\ @param\ courseId\ id\r\n\ @param\ a\ Course\r\n\ @param\ b\ Course\r\n
+comment2.params=
+comment2.target=int\ getCredits()
+comment2.text=\r\n\ getCredit\ method.\r\n\ @return\ credit.\r\n
+comment3.params=
+comment3.target=double\ getDifficulty()
+comment3.text=\r\n\ getDifficulty.\r\n\ @return\ difficulty\ sum.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment4.text=\r\n\ Title\r\n\ @return\ title\r\n
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ Equals\ method.\r\n\ @param\ o\ Object\r\n\ @return\ boolean\r\n
+comment6.params=
+comment6.target=int\ hashCode()
+comment7.params=other
+comment7.target=boolean\ contains(Course)
+comment7.text=\r\n\ cCheck\ if\ Course\ is\ in\ the\ ComboCourse.\r\n\ @param\ other\ Course\r\n\ @return\ boolean.\r\n
+numComments=8

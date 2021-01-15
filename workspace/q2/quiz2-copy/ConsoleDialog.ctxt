@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ConsoleDialog
+comment0.text=\r\n\ User\ Interface\ for\ the\ Coin\ Purse.\r\n\ This\ class\ provides\ simple\ interactive\ dialog\ for\ inserting\r\n\ and\ removing\ money\ to/from\ the\ purse,\ and\ displaying\ the\ balance.\r\n\r\n\ It\ uses\ only\ 1\ currency,\ which\ you\ specify\ when\ running\ the\ dialog.\r\n
+comment1.params=prompt
+comment1.target=java.lang.String\ getReply(java.lang.String)
+comment2.params=
+comment2.target=void\ run()
+comment2.text=Run\ the\ user\ interface.
+comment3.params=
+comment3.target=void\ depositDialog()
+comment3.text=\r\n\ Ask\ the\ user\ how\ many\ coins\ to\ deposit\ into\ purse,\ then\ deposit\ them.\r\n\ Show\ result\ of\ success\ or\ failure.\r\n\ The\ user\ can\ type\ the\ values\ on\ same\ line\ as\ he\ typed\ "d",\ e.g.\ "d\ 5\ 10\ 1"\r\n\ so\ check\ for\ that.\r\n
+comment4.params=
+comment4.target=void\ withdrawDialog()
+comment4.text=\ Ask\ how\ much\ money\ (Baht)\ to\ withdraw\ and\ then\ do\ it.\r\n\ \ After\ withdraw,\ show\ the\ values\ of\ the\ coins\ we\ withdrew.\r\n
+numComments=5

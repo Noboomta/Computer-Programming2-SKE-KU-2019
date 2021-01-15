@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayIterator
+comment1.params=array
+comment1.target=ArrayIterator(java.lang.Object[])
+comment1.text=\r\n\ Initialize\ a\ new\ array\ iterator\ with\ the\ array\ to\ process.\r\n\r\n\ @param\ array\ is\ the\ array\ to\ iterate\ over\r\n
+comment2.params=
+comment2.target=java.lang.Object\ next()
+comment2.text=\r\n\ @see\ java.util.Iterator\#next()\r\n
+comment3.params=
+comment3.target=boolean\ hasNext()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ A\ main\ class\ to\ create\ objects\ and\ connect\ objects\ together.\ The\ user\r\n\ interface\ needs\ a\ reference\ to\ coin\ purse.\r\n\ \r\n\ @author\ Puvana\ Swatvaith\ NoBoomTa\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Configure\ and\ start\ the\ application.\r\n\ \r\n\ @param\ args\ not\ used\r\n
+numComments=2

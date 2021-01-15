@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ConsoleDialog
+comment0.text=\r\n\ User\ Interface\ for\ the\ Coin\ Purse.\r\n\ This\ class\ provides\ simple\ interactive\ dialog\ for\ inserting\r\n\ and\ removing\ money\ to/from\ the\ purse,\ and\ displaying\ the\ balance.\r\n\r\n\ It\ uses\ only\ 1\ currency,\ which\ you\ specify\ when\ running\ the\ dialog.\r\n
+comment1.params=purse
+comment1.target=ConsoleDialog(Purse)
+comment1.text=\r\n\ Initialize\ a\ new\ Purse\ dialog.\r\n\ @param\ purse\ is\ the\ Purse\ to\ interact\ with.\r\n
+comment2.params=prompt
+comment2.target=java.lang.String\ getReply(java.lang.String)
+comment3.params=
+comment3.target=void\ run()
+comment3.text=Run\ the\ user\ interface.
+comment4.params=
+comment4.target=void\ depositDialog()
+comment4.text=\r\n\ Ask\ the\ user\ how\ many\ coins\ to\ deposit\ into\ purse,\ then\ deposit\ them.\r\n\ Show\ result\ of\ success\ or\ failure.\r\n\ The\ user\ can\ type\ the\ values\ on\ same\ line\ as\ he\ typed\ "d",\ e.g.\ "d\ 5\ 10\ 1"\r\n\ so\ check\ for\ that.\r\n
+comment5.params=
+comment5.target=void\ withdrawDialog()
+comment5.text=\ Ask\ how\ much\ money\ (Baht)\ to\ withdraw\ and\ then\ do\ it.\r\n\ \ After\ withdraw,\ show\ the\ values\ of\ the\ coins\ we\ withdrew.\r\n
+comment6.params=value
+comment6.target=Coin\ makeMoney(double)
+comment6.text=Make\ a\ Coin\ (or\ BankNote\ or\ whatever)\ using\ requested\ value.
+numComments=7

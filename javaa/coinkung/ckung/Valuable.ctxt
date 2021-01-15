@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Valuable
+comment0.text=\r\n\ \ interface\ for\ objects\ having\ a\ monetary\ value\ and\ currency.\r\n
+comment1.params=
+comment1.target=double\ getValue()
+comment1.text=\r\n\ Get\ the\ monetary\ value\ of\ this\ object,\ in\ its\ own\ currency.\r\n\ @return\ the\ value\ of\ this\ object\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCurrency()
+numComments=3

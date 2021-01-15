@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestRunner
+comment0.text=\r\n\ Run\ JUnit\ test\ suites\ and\ print\ results\ on\ console.\r\n\ You\ can\ run\ JUnit\ tests\ in\ an\ IDE\ without\ using\ this\ class.\r\n\ For\ running\ on\ console,\ this\ TestRunner\ prints\ messages\r\n\ about\ failed\ tests\ that\ are\ easier\ to\ read\ than\ JUnit\ output.\r\n\ \r\n\ Run\ this\ class\ as\ an\ ordinary\ Java\ application\ (using\ main).\r\n\ \r\n\ @author\ James\ Brucker\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Run\ the\ JUnit\ tests\ and\ display\ results.\r\n\ @param\ args\r\n
+comment2.params=clazz
+comment2.target=int\ runTestSuite(java.lang.Class)
+comment2.text=\r\n\ Run\ a\ JUnit\ test\ suite\ and\ print\ summary\ of\ results.\r\n\ @param\ clazz\ class\ object\ for\ the\ JUnit\ test\ suite.\r\n\ @return\ number\ of\ failed\ tests\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestRunner
+comment0.text=\r\n\ This\ class\ runs\ the\ JUnit\ tests\ in\ other\ classes.\r\n\ You\ don't\ need\ this\ if\ you\ run\ unit\ tests\ in\ your\ IDE\ directly.\r\n
+comment1.params=testclass
+comment1.target=int\ runtests(java.lang.Class)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Run\ JUnit\ tests\ as\ a\ stand-alone\ test\ suite,\r\n\ and\ describe\ the\ results.\r\n
+numComments=3

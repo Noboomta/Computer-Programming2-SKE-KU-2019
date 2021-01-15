@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\r\n\ A\ coin\ with\ a\ monetary\ value\ and\ currency.\r\n\ \r\n\ @author\ Phakarat\ Khongphaisan\ 6210546412\r\n
+comment1.params=other
+comment1.target=int\ compareTo(Coin)
+comment1.text=\r\n\ Compare\ coins\ by\ value.\r\n
+comment2.params=value\ currency
+comment2.target=Coin(double,\ java.lang.String)
+comment2.text=\r\n\ Coin\ has\ value\ ans\ currency\ and\ value<0.\r\n\ @param\ value\ value\ of\ money.\r\n\ @param\ currency\ currency\ of\ money.\r\n
+comment3.params=
+comment3.target=double\ getValue()
+comment3.text=\r\n\ Get\ value\ because\ value\ is\ private.\r\n\ @return\ value.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCurrency()
+comment4.text=\r\n\ Get\ currency\ because\ currency\ is\ private.\r\n\ @return\ currency\r\n
+comment5.params=object
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ Check\ the\ object\ that\ is\ the\ same\r\n\ @return\ true\ is\ both\ are\ the\ same\ and\ false\ if\ thay\ are\ difference.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ all\ of\ the\ Coin.\r\n
+numComments=7

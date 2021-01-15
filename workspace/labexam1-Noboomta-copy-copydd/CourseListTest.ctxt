@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CourseListTest
+comment0.text=\r\n\ JUnit\ 4\ test\ of\ CourseList\ class.\r\n\ Requires\ the\ JUnit\ 4\ JAR\ files\ (junit.jar\ and\ hamcrest-core.jar)\r\n\ on\ your\ project\ classpath.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testNewCourseList()
+comment3.params=
+comment3.target=void\ testAddOneCourse()
+comment4.params=
+comment4.target=void\ testDropOneCourse()
+comment5.params=
+comment5.target=void\ testInvalidAddAndDrop()
+comment6.params=
+comment6.target=void\ testGetCredits()
+comment7.params=
+comment7.target=void\ testDifficulty()
+comment8.params=
+comment8.target=void\ testGetCoursesIsView()
+comment9.params=
+comment9.target=void\ testViewIsUnmodifiable()
+comment9.text=An\ unmodifiable\ view\ throws\ this\ exception
+numComments=10

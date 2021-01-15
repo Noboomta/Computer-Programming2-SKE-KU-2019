@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ComboCourseTest
+comment0.text=\r\n\ JUnit\ 4\ tests\ of\ the\ ComboCourse\ class.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testGetTitle()
+comment3.params=
+comment3.target=void\ testGetCredits()
+comment4.params=
+comment4.target=void\ testGetDifficulty()
+comment5.params=
+comment5.target=void\ testGetId()
+comment6.params=
+comment6.target=void\ testEqualsObject()
+comment6.text=\r\n\ ComboCourses\ are\ equal\ if\ they\ contain\ the\ same\ component\r\n\ courses,\ in\ either\ order.\ \ Combo\ CourseId\ does\ not\ need\ to\ match.\r\n
+numComments=7

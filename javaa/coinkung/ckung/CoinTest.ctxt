@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CoinTest
+comment0.text=\r\n\ Test\ of\ the\ Coin\ class.\r\n\r\n\ @author\ Resident\ Evil\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Setup\ any\ test\ fixtures.\r\n
+comment2.params=
+comment2.target=void\ testGetValue()
+comment2.text=\r\n\ Test\ method\ for\ {@link\ coinpurse.Coin\#getValue()}.\r\n
+comment3.params=
+comment3.target=void\ testEquals()
+comment3.text=\r\n\ Test\ the\ equals\ method.\r\n
+comment4.params=
+comment4.target=void\ testEqualsStringValues()
+comment4.text=\r\n\ Test\ the\ equals\ does\ not\ use\ \=\=\ for\ strings.\r\n
+comment5.params=
+comment5.target=void\ testCompareTo()
+comment5.text=\r\n\ test\ that\ compareTo\ orders\ coins\ by\ increasing\ value\r\n
+comment6.params=
+comment6.target=void\ testCompareCurrency()
+comment6.text=\r\n\ test\ that\ compareTo\ orders\ coins\ by\ currency\r\n\ ignoring\ case,\ then\ by\ value.\r\n
+comment7.params=
+comment7.target=void\ testCompareToUsesDouble()
+comment8.params=
+comment8.target=void\ testToString()
+comment8.text=\r\n\ Test\ that\ toString()\ contains\ the\ value\ of\ the\ coin\r\n
+numComments=9

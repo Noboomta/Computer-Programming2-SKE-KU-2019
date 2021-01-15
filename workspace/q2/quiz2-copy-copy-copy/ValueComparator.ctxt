@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ValueComparator
+comment0.text=\r\n\ Compare\ two\ valuable.\r\n
+comment1.params=a\ b
+comment1.target=int\ compare(Valuable,\ Valuable)
+numComments=2

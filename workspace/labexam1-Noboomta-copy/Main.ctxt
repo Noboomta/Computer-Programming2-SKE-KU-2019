@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ this\ code\ is\ a\ console\ dialog\ to\ test\ your\ CourseList\ class\r\n\ and\ ComboCourse\ class.\r\n\ \r\n\ TODO\r\n\ In\ the\ main()\ method,\ create\ a\ ComboCourse\ for\ 01219116\ and\ 01219117\r\n\ and\ add\ it\ to\ the\ course\ catalog.\r\n\ \r\n\ You\ don't\ need\ to\ modify\ the\ other\ methods.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=catalog
+comment2.target=CourseList\ consoleDialog(CourseCatalog)
+comment2.text=\ \r\n\ Interactively\ add/drop\ courses\ in\ a\ student\ CourseList\ \r\n
+comment3.params=catalog
+comment3.target=void\ printCourseCatalog(CourseCatalog)
+comment3.text=Print\ all\ courses\ in\ the\ Course\ Catalog
+comment4.params=cl\ courseId
+comment4.target=void\ addCourse(CourseList,\ java.lang.String)
+comment4.text=Add\ a\ course\ to\ a\ CourseList
+comment5.params=cl\ courseId
+comment5.target=void\ dropCourse(CourseList,\ java.lang.String)
+comment5.text=Drop\ a\ course\ from\ a\ CourseList.
+comment6.params=cl
+comment6.target=void\ printCourseList(CourseList)
+comment6.text=Print\ what\ is\ in\ the\ course\ list
+comment7.params=
+comment7.target=void\ help()
+numComments=8

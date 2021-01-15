@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BankNoteTest
+comment0.text=\r\n\ Test\ of\ the\ BankNote\ class.\r\n\r\n\ @author\ Resident\ Evil\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Setup\ any\ test\ fixtures.\r\n
+comment2.params=
+comment2.target=void\ testGetValue()
+comment2.text=\r\n\ Test\ method\ for\ {@link\ coinpurse.BankNote\#getValue()}.\r\n
+comment3.params=
+comment3.target=void\ testEquals()
+comment3.text=\r\n\ Test\ the\ equals\ method.\r\n
+comment4.params=
+comment4.target=void\ testEqualsStringValues()
+comment4.text=\r\n\ Test\ the\ equals\ does\ not\ use\ \=\=\ for\ strings.\r\n
+comment5.params=
+comment5.target=void\ testToString()
+comment5.text=\r\n\ Test\ that\ toString()\ contains\ the\ value\ of\ the\ banknote\r\n
+comment6.params=
+comment6.target=void\ testBanknoteSerialNumber()
+numComments=7

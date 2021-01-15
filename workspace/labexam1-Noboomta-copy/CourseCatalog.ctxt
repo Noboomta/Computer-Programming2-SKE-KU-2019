@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CourseCatalog
+comment0.text=\r\n\ University\ Course\ Catalog\ containing\ all\ the\ courses\ you\ can\ enroll\ in.\r\n
+comment1.params=
+comment1.target=CourseCatalog()
+comment1.text=Initialize\ the\ course\ catalog\ using\ course\ data\ from\ a\ file.
+comment2.params=
+comment2.target=CourseCatalog\ getCourseCatalog()
+comment2.text=\r\n\ Get\ a\ singleton\ instance\ of\ the\ CourseCatalog\ class.\r\n\ This\ is\ not\ thread-safe.\r\n\ @return\ instance\ of\ this\ class.\r\n
+comment3.params=id
+comment3.target=Course\ getCourse(java.lang.String)
+comment3.text=\r\n\ Find\ one\ course\ by\ its\ course\ id.\r\n\ @param\ id\ the\ id\ of\ the\ course\r\n\ @return\ matching\ Course\ or\ null\ if\ no\ course\ with\ this\ id.\r\n
+comment4.params=
+comment4.target=java.util.Collection\ getCourses()
+comment4.text=\r\n\ Get\ all\ courses\ in\ the\ course\ catalog.\r\n\ @return\ List\ of\ all\ courses\ in\ the\ course\ catalog.\r\n\ It\ is\ the\ caller's\ responsibility\ not\ to\ modify\ the\ collection.\r\n
+comment5.params=course
+comment5.target=void\ addCourse(Course)
+comment5.text=\ \r\n\ Add\ a\ course\ to\ the\ course\ catalog.\ \r\n\ No\ check\ is\ made\ that\ the\ course\ id\ is\ unique.\ \r\n\ @param\ course\ is\ the\ course\ to\ add\ to\ catalog\r\n
+comment6.params=
+comment6.target=java.util.Map\ makeCourseCatalog()
+comment6.text=\r\n\ Create\ the\ course\ data.\ This\ reads\ data\ from\ COURSELIST\ file.\r\n\ @return\ collection\ of\ courses\r\n
+comment7.params=data
+comment7.target=Course\ makeCourse(java.lang.String)
+comment7.text=\r\n\ Make\ a\ course\ using\ data\ in\ a\ string\ of\ comma-separated\ values,\r\n\ having\ the\ form\:\ "id,course-title,credits,difficulty"\r\n\ @param\ data\ string\ of\ CSV\ course\ values\r\n\ @return\ course\ object\ \r\n
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CourseCatalog
+comment0.text=\r\n\ University\ Course\ Catalog\ containing\ all\ the\ courses\ you\ can\ enroll\ in.\r\n
+comment1.params=
+comment1.target=CourseCatalog()
+comment1.text=Initialize\ the\ course\ catalog\ using\ course\ data\ from\ a\ file.
+comment2.params=
+comment2.target=CourseCatalog\ getCourseCatalog()
+comment2.text=\r\n\ Get\ a\ singleton\ instance\ of\ the\ CourseCatalog\ class.\r\n\ This\ is\ not\ thread-safe.\r\n\ @return\ instance\ of\ this\ class.\r\n
+numComments=3
